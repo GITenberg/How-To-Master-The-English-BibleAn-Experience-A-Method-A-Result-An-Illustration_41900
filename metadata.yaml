@@ -1,0 +1,27 @@
+_repo: How-To-Master-The-English-BibleAn-Experience-A-Method-A-Result-An-Illustration_41900
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gray, James M. (James Martin)
+    alias: Gray, James Martin
+    birthdate: 1851
+    deathdate: 1935
+    gutenberg_agent_id: '45686'
+    url: http://www.gutenberg.org/2009/agents/45686
+description: ''
+gutenberg_issued: '2013-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Study and teaching'
+- !lcc 'BS'
+title: "How to Master the English Bible\r\nAn Experience, a Method, a Result, an Illustration"
+url: http://www.gutenberg.org/ebooks/41900
